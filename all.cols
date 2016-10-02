@@ -1,0 +1,33 @@
+For "all.tsv" here is an explanation of each column:
+
+1. Supported:
+	1 = this game is tested & supported
+	<blank> = unsupported, rejected, or skipped for some reason
+		(maybe just not tested yet)
+2. ID: Unique Numeric ID for this game
+3. Type:
+	X11 = Linux GUI Game
+	Bash = Linux Terminal game
+	DOS = MSDOS game to be run in Dosbox
+	Nes = for original Nintendo
+	Snes = for Super Nintendo
+	N64 = for Nintendo 64
+	GC = for Nintendo GameCube
+	Wii = for Nintendo Wii
+	WU = for Nintendo Wii U
+	NX = for Nintendo NX
+	GB = for Nintendo Gameboy
+	GBA = for Nintendo Gameboy Advanced
+	DS = for Nintendo DS
+	DS3 = for Nintendo 3-DS
+	PSX = for PlayStation
+	Sega = for Sega Genesis
+	TODO: more Sega
+	TODO: more Systems
+4. Rate: 2 decimal community rating
+5. Ps: max number of players
+6. Year: Year the game was released
+7. Genre: First 4 letters of the Game Genre
+	Arca for Arcade, Shoo for Shooter, RPG, FPS, etc...
+8. Name: Human Readable name for the Game
+

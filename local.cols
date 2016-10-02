@@ -1,0 +1,10 @@
+For "local.tsv" here is an explanation of each column:
+
+1. ID: ID relating the game here to all.tsv
+2. Installed:
+	0 = default to not installed (until we've checked your system)
+	1 = installed
+	<blank> = Skip this entry for some reason (technological problems,
+		don't give false hope that this game is supported)
+3. Rate: This user's rating for the game
+
