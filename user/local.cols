@@ -7,4 +7,5 @@ For "local.tsv" here is an explanation of each column:
 	<blank> = Skip this entry for some reason (technological problems,
 		don't give false hope that this game is supported)
 3. Rate: This user's rating for the game
+4. Launches: Number of times user has launched this title
 
