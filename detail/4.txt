@@ -1,0 +1,1 @@
+A simple vertical shooter than runs in your terminal.<br>Though basic, you can derive hours of pleasure from this well done gem.

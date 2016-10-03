@@ -1,0 +1,1 @@
+A 2D tank shooter game like Scoreched Earth.<br>Calculate the tajectory of your attack taking environment variables like wind & slope into account.

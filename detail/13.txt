@@ -1,0 +1,1 @@
+A solid Solitaire card game written expressly for Linux.

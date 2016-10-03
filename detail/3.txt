@@ -1,0 +1,1 @@
+A Boggle clone.<br>Connect 3 or more adjacent letters to form words.<br>Score points for every correct word found. Earn additional points for longer words.
