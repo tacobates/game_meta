@@ -12,36 +12,85 @@ Y	ID	Type	Rate	Ps	Year	Genre	Name	File
 1	11	X11	2.51	1	1861	Puzz	Cute Maze	cutemaze
 1	12	X11	3.51	1	1862	RPG	Dink Smallwood	dink
 1	13	X11	2.91	1	1859	Card	Solitaire	ace-solitaire
-1	14	Nes	3.98	1	1853	Plat	A Boy & His Blob	
-1	15	Nes	4.38	2	1892	Plat	Chip n Dale Rescue Rangers	
-1	16	Nes	4.18	2	1893	Plat	Chip n Dale II	
-1	17	Nes	4.38	1	1873	RPG	Final Fantasy	
-1	18	Nes	4.36	1	1874	RPG	Final Fantasy II	
-1	19	Nes	3.45	4	1869	Race	Off Road	
-1	20	Nes	4.32	2	1835	Plat	Super Mario Bros	
-1	21	Nes	4.45	2	1821	Plat	Super Mario Bros 2	
-	22	Nes	4.46	2	1820	Plat	Super Mario Bros 3	
-1	23	Nes	4.78	1	1840	RPG	Zelda	
-1	24	Nes	3.02	1	1842	RPG	Zelda II	
+1	14	Nes	3.98	1	1853	Plat	A Boy & His Blob	A Boy n his Blob.nes
+1	15	Nes	4.38	2	1892	Plat	Chip n Dale Rescue Rangers	Chip n Dale1.nes
+1	16	Nes	4.18	2	1893	Plat	Chip n Dale II	Chip n Dale2.nes
+1	17	Nes	4.38	1	1873	RPG	Final Fantasy	FinalFantasy1.nes
+1	18	Nes	4.36	1	1874	RPG	Final Fantasy II	FinalFantasy2.nes
+1	19	Nes	3.45	4	1869	Race	Off Road	Offroad.nes
+1	20	Nes	4.32	2	1835	Plat	Super Mario Bros	Super Mario 1 combo.nes
+1	21	Nes	4.45	2	1821	Plat	Super Mario Bros 2	Super Mario 2.nes
+	22	Nes	4.46	2	1820	Plat	Super Mario Bros 3	Super Mario 3.nes
+1	23	Nes	4.78	1	1840	RPG	Zelda	Zelda1.nes
+1	24	Nes	3.02	1	1842	RPG	Zelda II	Zelda2.nes
 1	25	Snes	4.21	1	1893	Plat	Animaniacs	
-1	26	Snes	4.84	2	1889	Plat	Donkey Kong	
-1	27	Snes	4.86	2	1891	Plat	Donkey Kong II	
-1	28	Snes	4.82	2	1893	Plat	Donkey Kong III	
-1	29	Snes	4.94	1	1891	Plat	Earthworm Jim	
-1	30	Snes	4.99	1	1893	Plat	Earthworm Jim II	
-1	31	Snes	4.24	1	1875	RPG	Final Fantasy III	
-1	32	Snes	4.21	1	1876	RPG	Final Fantasy IV	
-1	33	Snes	2.91	2	1896	Puzz	Goof Troop	
-1	34	Snes	4.92	2	1810	Race	Mario Kart	
+1	26	Snes	4.84	2	1889	Plat	Donkey Kong	Donkey Kong Country 1.smc
+1	27	Snes	4.86	2	1891	Plat	Donkey Kong II	Donkey Kong Country 2.smc
+1	28	Snes	4.82	2	1893	Plat	Donkey Kong III	Donkey Kong Country 3.smc
+1	29	Snes	4.94	1	1891	Plat	Earthworm Jim	Earthworm Jim 1.smc
+1	30	Snes	4.99	1	1893	Plat	Earthworm Jim II	Earthworm Jim 2.smc
+1	31	Snes	4.24	1	1875	RPG	Final Fantasy III	Final Fantasy 3.smc
+1	32	Snes	4.21	1	1876	RPG	Final Fantasy IV	Final Fantasy 4.smc
+1	33	Snes	2.91	2	1896	Puzz	Goof Troop	Goof Troop.smc
+1	34	Snes	4.92	2	1810	Race	Mario Kart	Mario Kart.smc
 1	35	Snes	4.82	1	1893	Plat	Super Mario World	
-1	36	Snes	3.99	2	1892	Race	Uniracers	
-1	37	Snes	3.89	2	1800	Puzz	Wario's Woods	
+1	36	Snes	3.99	2	1892	Race	Uniracers	Uniracers.smc
+1	37	Snes	3.89	2	1800	Puzz	Wario's Woods	Warios Woods.smc
 1	38	Dos	1.27	1	1802	Esca	Beyond Castle Wolfenstein	
 1	39	Dos	1.21	1	1801	Esca	Castle Wolfenstein	
-	40	Dos	4.21	1	1877	Plat	Disney's Aladdin	
-1	41	Dos	3.52	1	1876	FPS	Montezuma's Return	
-1	42	Dos	4.21	10	1878	Shoo	Scorched Earth	
-1	43	Dos	4.69	1	1879	FPS	Return to Castle Wolfenstein	
-1	44	Dos	3.19	1	1800	Text	Zork	
-1	45	Dos	3.18	1	1801	Text	Zork II	
-1	46	Dos	3.17	1	1802	Text	Zork III	
+1	40	Dos	3.41	1	1990	Plat	Commander Keen 1 - Marooned on Mars	keen1.zip
+1	41	Dos	3.21	1	1990	Plat	Commander Keen 2 - Earth Explodes	keen2.zip
+1	42	Dos	3.61	1	1990	Plat	Commander Keen 3 - Keen must Die	keen3.zip
+1	43	Dos	4.31	1	1991	Plat	Commander Keen 4 - Secret of the Oracle	keen4.zip
+1	44	Dos	4.11	1	1991	Plat	Commander Keen 5	keen5.zip
+1	45	Dos	4.71	1	1991	Plat	Commander Keen 6 - Aliens Ate my Babysitter	keen6.zip
+1	46	Dos	4.51	1	1992	Plat	Commander Keen 7 - Keen Dreams	keen7.zip
+1	47	Dos	4.51	1	1992	Plat	Commander Keen 2000	keen2000.zip
+1	48	Dos	4.41	1	1993	Puzz	Day of the Tentacle	dayoftentacle.zip
+	49	Dos	4.21	1	1877	Plat	Disney's Aladdin	
+1	50	Dos	3.01	1	1990	Puzz	Hugo 1 - House of Horrors 1	hugo1.zip
+1	51	Dos	3.11	1	1991	Puzz	Hugo 2 - Whodunit	hugo2.zip
+1	52	Dos	3.21	1	1992	Puzz	Hugo 3 - Jungle of Doom	hugo3.zip
+1	53	Dos	4.91	1	1990	Plat	Mega Man	megaman1.zip
+1	54	Dos	4.71	1	1992	Plat	Mega Man 3	megaman3.zip
+1	55	Dos	4.51	1	1995	Plat	Mega Man X	megamanx.zip
+1	56	Dos	4.31	1	1990	Puzz	Monkey Island 1	monkey1.zip
+1	57	Dos	4.61	1	1991	Puzz	Monkey Island 2 - Lechuck's Revenge	monkey2.zip
+1	58	Dos	3.52	1	1876	FPS	Montezuma's Return	
+1	59	Dos	4.41	1	1995	Plat	Rayman	rayman.zip
+1	60	Dos	4.69	1	1879	FPS	Return to Castle Wolfenstein	
+1	61	Dos	4.31	10	1994	FPS	Rise of the Triad	rott.zip
+1	62	Dos	4.21	1	1993	Puzz	Sam & Max Hit the Road	samnmax1.zip
+1	63	Dos	4.11	10	1878	Shoo	Scorched Earth	scorched earth 15.zip
+1	64	Dos	4.22	2	1991	Arca	Simpson's Arcade Game	simpsonarcade.zip
+1	65	Dos	3.22	1	1991	Plat	Bart Simpson's House of Weirdness	simpsonweird.zip
+1	66	Dos	3.02	1	1991	Plat	Bart vs Space Mutants	simpsonspace.zip
+1	67	Dos	2.62	1	2002	Puzz	Simpson's Tetris	simpsontetris.zip
+1	68	Dos	1.62	1	1984	Shoo	Sopwith	sopwith.zip
+1	69	Dos	3.93	1	1983	FPS	Star Wars	starwars.zip
+1	70	Dos	4.23	1	1995	FPS	Star Wars - Dark Forces	starwarsdarkf.zip
+1	71	Dos	4.33	1	1994	Shoo	Star Wars - Tie Fighter	starwarstief.zip
+1	72	Dos	4.53	1	1993	Shoo	Star Wars - X Wing	starwarsxwing.zip
+1	73	Dos	4.13	2	1994	Figh	Street Fighter 2	streetfight2.zip
+1	74	Dos	4.34	1	1996	Puzz	Tomb Raider	tomb1.zip
+1	75	Dos	4.24	2	1994	Batt	Warcraft 1 - Orcs & Humans	warcraft1.zip
+1	76	Dos	4.74	4	1995	Batt	Warcraft 2 - Tides of Darkness	warcraft2.zip
+1	77	Dos	4.64	4	1996	Batt	Warcraft 2 - Beyond the Dark Portal	warcraft2a.zip
+1	78	Dos	4.44	4	1996	Batt	Warcraft 2 - Return of the Horde	warcraft2b.zip
+1	79	Dos	3.14	1	1985	Educ	Where in the World is Carmen San Diego	carmen_world.zip
+1	80	Dos	3.24	1	1986	Educ	Where in the USA is Carmen San Diego	carmen_usa.zip
+1	81	Dos	3.14	1	1988	Educ	Where in Europe is Carmen San Diego	carmen_europe.zip
+1	82	Dos	3.24	1	1989	Educ	Where in Time is Carmen San Diego	carmen_time.zip
+1	83	Dos	3.14	1	1991	Educ	Where in America's Past is Carmen San Diego	carmen_past.zip
+1	84	Dos	3.14	1	1993	Educ	Where in Space is Carmen San Diego	carmen_space.zip
+1	85	Dos	3.94	1	1981	RPG	Wizardry 1 - Proving Grounds Of The Mad Overlord	wiz1.zip
+1	86	Dos	3.93	1	1982	RPG	Wizardry 2 - Knight of Diamonds	wiz2.zip
+1	87	Dos	3.84	1	1985	RPG	Wizardry 3 - Legacy of Llylgamyn	wiz3.zip
+1	88	Dos	3.83	1	1987	RPG	Wizardry 4 - Return of Werdna	wiz4.zip
+1	89	Dos	3.74	1	1988	RPG	Wizardry 5 - Heart of the Maelstrom	wiz5.zip
+1	90	Dos	3.73	1	1990	RPG	Wizardry 6 - Bane of the Cosmic Forge	wiz6.zip
+1	91	Dos	4.14	1	1992	RPG	Wizardry 7 - Crusaders of the Dark Savant	wiz7.zip
+1	92	Dos	4.44	1	1992	FPS	Wolfenstein 3D	wolfenstein3d.zip
+1	93	Dos	3.19	1	1800	Text	Zork	zork1.zip
+1	94	Dos	3.18	1	1801	Text	Zork II	zork2.zip
+1	95	Dos	3.17	1	1802	Text	Zork III	zork3.zip
