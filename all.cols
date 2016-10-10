@@ -30,4 +30,5 @@ For "all.tsv" here is an explanation of each column:
 7. Genre: First 4 letters of the Game Genre
 	Arca for Arcade, Shoo for Shooter, RPG, FPS, etc...
 8. Name: Human Readable name for the Game
+9. File: Filename (we assume default dir unless it starts with "/")
 
