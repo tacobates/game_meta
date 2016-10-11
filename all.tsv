@@ -57,7 +57,7 @@ Y	ID	Type	Rate	Ps	Year	Genre	Name	File
 1	56	Dos	4.31	1	1990	Puzz	Monkey Island 1	monkey1.zip
 1	57	Dos	4.61	1	1991	Puzz	Monkey Island 2 - Lechuck's Revenge	monkey2.zip
 1	58	Dos	3.52	1	1876	FPS	Montezuma's Return	
-1	59	Dos	4.41	1	1995	Plat	Rayman	rayman.zip
+	59	Dos	4.41	1	1995	Plat	Rayman	rayman.zip
 1	60	Dos	4.69	1	1879	FPS	Return to Castle Wolfenstein	
 1	61	Dos	4.31	10	1994	FPS	Rise of the Triad	rott.zip
 1	62	Dos	4.21	1	1993	Puzz	Sam & Max Hit the Road	samnmax1.zip
