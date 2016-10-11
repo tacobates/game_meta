@@ -68,7 +68,7 @@ Y	ID	Type	Rate	Ps	Year	Genre	Name	File
 1	67	Dos	2.62	1	2002	Puzz	Simpson's Tetris	simpsontetris.zip
 1	68	Dos	1.62	1	1984	Shoo	Sopwith	sopwith.zip
 1	69	Dos	3.93	1	1983	FPS	Star Wars	starwars.zip
-1	70	Dos	4.23	1	1995	FPS	Star Wars - Dark Forces	starwarsdarkf.zip
+	70	Dos	4.23	1	1995	FPS	Star Wars - Dark Forces	starwarsdarkf.zip
 1	71	Dos	4.33	1	1994	Shoo	Star Wars - Tie Fighter	starwarstief.zip
 1	72	Dos	4.53	1	1993	Shoo	Star Wars - X Wing	starwarsxwing.zip
 1	73	Dos	4.13	2	1994	Figh	Street Fighter 2	streetfight2.zip
