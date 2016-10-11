@@ -38,8 +38,8 @@ Y	ID	Type	Rate	Ps	Year	Genre	Name	File
 1	37	Snes	3.89	2	1800	Puzz	Wario's Woods	Warios Woods.smc
 1	38	Dos	1.27	1	1802	Esca	Beyond Castle Wolfenstein	
 1	39	Dos	1.21	1	1801	Esca	Castle Wolfenstein	
-1	40	Dos	3.41	1	1990	Plat	Commander Keen 1 - Marooned on Mars	keen1.zip
-1	41	Dos	3.21	1	1990	Plat	Commander Keen 2 - Earth Explodes	keen2.zip
+	40	Dos	3.41	1	1990	Plat	Commander Keen 1 - Marooned on Mars	keen1.zip
+	41	Dos	3.21	1	1990	Plat	Commander Keen 2 - Earth Explodes	keen2.zip
 1	42	Dos	3.61	1	1990	Plat	Commander Keen 3 - Keen must Die	keen3.zip
 1	43	Dos	4.31	1	1991	Plat	Commander Keen 4 - Secret of the Oracle	keen4.zip
 1	44	Dos	4.11	1	1991	Plat	Commander Keen 5	keen5.zip
